@@ -1,1 +1,1 @@
-![image](https://www.somesite.com/somedirectory/someimage.png)
+![image](https://i.imgur.com/TVaghLW.png)
