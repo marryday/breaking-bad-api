@@ -9,7 +9,8 @@ body {
   background: #000 url('img/bg.jpg') no-repeat center center/cover;
   height: 100vh;
   color: #fff;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Verdana, Geneva, Tahoma, sans-serif, Helvetica, sans-serif;
+  font-size: 17px;
 }
 
 a {
@@ -110,7 +111,7 @@ input[type='text'] {
 }
 
 .card-back {
-  background-color: #333;
+  background-color: #225533;
   color: white;
   padding: 20px;
   transform: rotateY(180deg);
